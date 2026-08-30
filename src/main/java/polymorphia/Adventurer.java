@@ -27,4 +27,12 @@ public class Adventurer {
         // This is just a placeholder implementation. You should replace it with your own logic.
         return false;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getHealth() {
+        return health;
+    }
 }
