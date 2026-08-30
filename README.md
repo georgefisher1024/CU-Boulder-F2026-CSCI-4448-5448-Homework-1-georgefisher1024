@@ -20,6 +20,11 @@ the four pillars of OO:
 ![DebuggingScreenshotExample.jpg](images/DebuggingScreenshotExample.jpg)
 
 * Add the screenshot to your README.md file.
+
+Below is a screenshot of a debugging example.
+
+![debugging.png](images/debugging.png)
+
 * Submit your homework to Canvas by submitting your GitHub repository URL.
 
 
