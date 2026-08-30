@@ -11,7 +11,7 @@ the four pillars of OO:
 
 ## Homework 1
 
-    Enter Name: ___________________________________
+    Enter Name: George Fisher
 
 * Get all the existing tests to pass
 * Write one extra test that tests a fight between the adventurer and the creature. You can implement this in any fashion you like.
